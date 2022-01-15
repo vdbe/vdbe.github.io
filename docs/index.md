@@ -1,3 +1,3 @@
 # Notes
-- [net-arch](./net-arch/index.md) 
+- [net-arch](./net-arch/index) 
 
